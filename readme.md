@@ -40,7 +40,7 @@ De diferentes sitios web, como www.studocu.com
 
 #### ¿Como puedo aportar documentos que yo tengo?
 
-Realiza un pull request añadiendo tus documentos a la carpeta correspondiente. En caso de no esistir, créala siguiendo esta estructura:
+Realiza un pull request añadiendo tus documentos a la carpeta correspondiente. En caso de no existir, créala siguiendo esta estructura:
 
     -AnálisisMatemático (NombreDeLaAsignatura)
         -20211 (AñoSemestre)
